@@ -1,10 +1,10 @@
 spring:
   datasource:
     driver-class-name: org.mariadb.jdbc.Driver
-    url: jdbc:mariadb://careerup.c2pjf92fzjv5.ap-northeast-2.rds.amazonaws.com:3306/mydb
-    username: root
+    url: jdbc:mariadb://##############################################
+    username: ##########
     #insert password
-    password: 12345678
+    password: ##########
 
   jpa:
     properties:
